@@ -1,0 +1,44 @@
+.goToCenter {
+	text-align: center;
+}
+
+.goToLeft {
+    text-align: left;
+}
+
+
+.explain {
+	width: 900px; 
+	height: auto;
+	margin: 0px auto; 
+}
+
+
+.header_part {
+     background:url(/img/header2.jpg) no-repeat center center cover;
+     background-position:top;
+     height:auto;
+     display:block;
+     width:100%;
+     text-align:center;
+  }
+
+
+.changeFont {
+ font-size: 14px;   
+} 
+
+
+.thumbnail {
+    position: relative;
+}
+
+.caption {
+    position: absolute;
+    top: 45%;
+    left: 0;
+    width: 100%;
+    color: white;
+    color: #fff;
+    font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif; 
+}
